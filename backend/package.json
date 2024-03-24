@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon server.js",
-    "db": "nodemon models/db.js"
+    "db": "nodemon models/db.js",
+    "build":"node server.js"
   },
   "keywords": [],
   "author": "",
