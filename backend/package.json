@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "nodemon server.js",
     "db": "nodemon models/db.js",
-    "build":"node server.js"
+    "build":"vite build"
   },
   "keywords": [],
   "author": "",
